@@ -1,7 +1,6 @@
 # BITCOIN IN A BOX
 ## BEEP.. AND START TRADING
 
-
 > COS'E' BITCOIN IN A BOX
   
  BBOX è una semplice scatolina che segnala, tramite algoritmi interni definibili da ogni singolo utente, lo stato attuale dei bitcoin ed emette un beep in caso di condizioni favorevoli all'acquisto o alla vendita.
