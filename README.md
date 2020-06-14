@@ -32,5 +32,9 @@ Se sei un programmatore, un Cripto-Enthusiast o anche solo un sosenitore puoi sv
 
 Se vuoi sempicemente valutare le possibilità di BBOX crea il tuo od ordinane uno!
 
+# DISCLAIMER:
+**L'utente si assume ogni responsabilità sull'uso e sulle transazioni che intende svolgere.
+Non ci riterremo in alcun modo responsabili di eventuali perdite di denaro che potrebbero derivare dall'utilizzo di bitcoin.
+Non ci riterremo in alcun modo responsabili da difetti di fabbricazione e/o da qualsiasi danno BITCOIN IN A BOX potrebbe causare!**
 
 
